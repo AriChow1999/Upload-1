@@ -1,4 +1,4 @@
-[Visit My Live Site]((https://upload-1-five.vercel.app/)
+[Visit My Live Site](https://upload-1-five.vercel.app/)
 ```bash
 git clone https://github.com/AriChow1999/Upload-1.git
 
